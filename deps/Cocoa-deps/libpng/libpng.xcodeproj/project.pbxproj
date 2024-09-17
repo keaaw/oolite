@@ -255,6 +255,7 @@
 				HEADER_SEARCH_PATHS = "\"$(SRCROOT)/src/Core/Materials/\"";
 				INSTALL_PATH = /usr/local/lib;
 				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				PRODUCT_NAME = png_for_oolite;
 				PUBLIC_HEADERS_FOLDER_PATH = include/png/;
 				SYMROOT = ../../../build;
@@ -283,6 +284,7 @@
 				GENERATE_MASTER_OBJECT_FILE = YES;
 				HEADER_SEARCH_PATHS = "\"$(SRCROOT)/src/Core/Materials/\"";
 				INSTALL_PATH = /usr/local/lib;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = png_for_oolite;
 				PUBLIC_HEADERS_FOLDER_PATH = include/png/;
@@ -299,6 +301,7 @@
 				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
 				HEADER_SEARCH_PATHS = "\"$(SRCROOT)/src/Core/Materials/\"";
 				INSTALL_PATH = /usr/local/lib;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				PRODUCT_NAME = png_for_oolite;
 				PUBLIC_HEADERS_FOLDER_PATH = include/png/;
 				SYMROOT = ../../../build;
