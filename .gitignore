@@ -13,7 +13,6 @@ xcuserdata/
 
 # Used for downloaded code
 deps/Cocoa-deps/sparkle
-deps/libpng
 
 
 # Build products
